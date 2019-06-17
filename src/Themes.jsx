@@ -74,26 +74,55 @@ export default function Themes() {
   );
 }
 
-const base_url = 'https://themes.cubetiqs.com';
+const base_url = 'https://themes.cubetiqs.com/resources';
 
 const data = [
     {
-        name: 'Theme 1',
-        image: 'https://material-ui.com//static/images/cards/contemplative-reptile.jpg',
-        desc: 'This is a theme 1',
-        link: `${base_url}/theme_1`
+        name: 'Restuarant & Café',
+        image: '/resources/restuarant-and-cafe.png',
+        desc: 'Suit for luxury Restaurant and Cafe Shop. We desing with components and decoration page.',
+        link: `${base_url}/restuarant-and-cafe`
     },
     {
-        name: 'Theme 2',
-        image: 'https://material-ui.com//static/images/cards/contemplative-reptile.jpg',
-        desc: 'This is a theme 2',
-        link: `${base_url}/theme_2`
+        name: 'Coffee Shop',
+        image: '/resources/coffee-shop.png',
+        desc: 'Luxury style match for coffee shop. It\'s includes booking, ordering coffee and more.',
+        link: `${base_url}/coffee-shop`
     },
     {
-        name: 'Theme 3',
-        image: 'https://material-ui.com//static/images/cards/contemplative-reptile.jpg',
-        desc: 'This is a theme 3',
-        link: `${base_url}/theme_3`
+        name: 'Coffee Shop Classic',
+        image: '/resources/coffee-shop-classic.png',
+        desc: 'Classic style for coffee shop and plus with default component for decoration page.',
+        link: `${base_url}/coffee-shop-classic`
     },
-    
+    {
+      name: 'Clear & Clean Seirra',
+      image: '/resources/clear-clean-seirra.png',
+      desc: 'Modern with clear and clean design for information page.',
+      link: `${base_url}/clear-clean-seirra`
+    },
+    {
+        name: 'Trip & Adventure',
+        image: '/resources/trip-adventure.png',
+        desc: 'Travel & Trip for Hotel, Restuarant, Trip Advisor and more.',
+        link: `${base_url}/trip-adventure`
+    },
+    {
+      name: 'Crypto & Trading Market',
+      image: '/resources/crypto-trading-market.png',
+      desc: 'Financial, Trading, Coin Market, Cryptocurrency and more.',
+      link: `${base_url}/crypto-trading-market`
+    },
+    {
+      name: 'Consulting Plus',
+      image: '/resources/consulting-plus.png',
+      desc: 'Professional Consulting, Co-working, The Space, Business and more.',
+      link: `${base_url}/consulting-plus`
+    },
+    {
+      name: 'The Mobi App',
+      image: '/resources/the-mobi-app.png',
+      desc: 'Mobile application with single page and scroll. And work with list and slide.',
+      link: `${base_url}/the-mobi-app`
+    },
 ]
