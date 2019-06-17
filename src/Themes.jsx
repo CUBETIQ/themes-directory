@@ -80,7 +80,7 @@ const data = [
     {
       name: 'Royada Online Shop',
       image: '/resources/royada-online-shop.png',
-      desc: 'E-Commerce for Royada Online Shop with buying products that built with Laravel & Vuejs Framework.',
+      desc: 'E-Commerce for Royada Online Shop that built with Laravel & Vuejs Framework.',
       link: `https://royada.dev.cubetiqs.com`
     },
     {
