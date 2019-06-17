@@ -137,4 +137,10 @@ const data = [
       desc: 'Mobile application with single page and scroll. And work with list and slide.',
       link: `${base_url}/the-mobi-app`
     },
+    {
+      name: 'Skin Beauty',
+      image: '/resources/skin-beauty.png',
+      desc: 'Skin care and beauty for Skin Shop and SPA. Build with Bootstrap 4.',
+      link: `${base_url}/skin-beauty`
+    },
 ]
