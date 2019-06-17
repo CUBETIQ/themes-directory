@@ -85,7 +85,7 @@ const data = [
     },
     {
       name: 'Articles & General Website',
-      image: '/resources/blog-general.png',
+      image: '/resources/blog-and-general.png',
       desc: 'Website for blogging and general posts and built with Laravel Framework.',
       link: `https://vimar.dev.cubetiqs.com`
     },
