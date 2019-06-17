@@ -78,6 +78,18 @@ const base_url = 'https://themes.cubetiqs.com/resources';
 
 const data = [
     {
+      name: 'Royada Online Shop',
+      image: '/resources/royada-online-shop.png',
+      desc: 'E-Commerce for Royada Online Shop with buying products that built with Laravel & Vuejs Framework.',
+      link: `https://royada.dev.cubetiqs.com`
+    },
+    {
+      name: 'Articles & General Website',
+      image: '/resources/blog-general.png',
+      desc: 'Website for blogging and general posts and built with Laravel Framework.',
+      link: `https://vimar.dev.cubetiqs.com`
+    },
+    {
         name: 'Restuarant & Café',
         image: '/resources/restuarant-and-cafe.png',
         desc: 'Suit for luxury Restaurant and Cafe Shop. We desing with components and decoration page.',
