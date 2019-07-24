@@ -143,4 +143,58 @@ const data = [
       desc: 'Skin care and beauty for Skin Shop and SPA. Build with Bootstrap 4.',
       link: `${base_url}/skin-beauty`
     },
+    {
+      name: 'Medcare',
+      image: '/resources/medcare/sample.png',
+      desc: 'Healthcare and beauty for Mediacal and Health Beauty.',
+      link: `${base_url}/medcare`
+    },
+    {
+      name: 'Dr.Pro',
+      image: '/resources/drpro/sample.png',
+      desc: 'Healthcare and beauty for Mediacal and Health Beauty.',
+      link: `${base_url}/drpro`
+    },
+    {
+      name: 'Camille',
+      image: '/resources/camille/sample.png',
+      desc: 'Healthcare and beauty for Mediacal and Health Beauty.',
+      link: `${base_url}/camille`
+    },
+    {
+      name: 'Medica',
+      image: '/resources/medica/sample.png',
+      desc: 'Healthcare and beauty for Mediacal and Health Beauty.',
+      link: `${base_url}/medica`
+    },
+    {
+      name: 'Medino',
+      image: '/resources/medino/sample.png',
+      desc: 'Healthcare and beauty for Mediacal and Health Beauty.',
+      link: `${base_url}/medino`
+    },
+    {
+      name: 'Dr.Care',
+      image: '/resources/drcare/sample.png',
+      desc: 'Healthcare and beauty for Mediacal and Health Beauty.',
+      link: `${base_url}/drcare`
+    },
+    {
+      name: 'Mediplus',
+      image: '/resources/mediplus/sample.png',
+      desc: 'Healthcare and beauty for Mediacal and Health Beauty.',
+      link: `${base_url}/mediplus`
+    },
+    {
+      name: 'Medart',
+      image: '/resources/medart/sample.png',
+      desc: 'Healthcare and beauty for Mediacal and Health Beauty.',
+      link: `${base_url}/medart`
+    }
+    ,{
+      name: 'Medisen',
+      image: '/resources/medisen/sample.png',
+      desc: 'Healthcare and beauty for Mediacal and Health Beauty.',
+      link: `${base_url}/medisen`
+    }
 ]
