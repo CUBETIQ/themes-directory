@@ -74,20 +74,20 @@ export default function Themes() {
   );
 }
 
-const base_url = 'https://themes.cubetiqs.com/resources';
+const base_url = 'https://cubetiq-themes.netlify.com/resources';
 
 const data = [
     {
       name: 'Royada Online Shop',
       image: '/resources/royada-online-shop.png',
       desc: 'E-Commerce for Royada Online Shop that built with Laravel & Vuejs Framework.',
-      link: `https://royada.dev.cubetiqs.com`
+      link: `/`
     },
     {
       name: 'Articles & General Website',
       image: '/resources/blog-and-general.png',
       desc: 'Website for blogging and general posts and built with Laravel Framework.',
-      link: `https://vimar.dev.cubetiqs.com`
+      link: `/`
     },
     {
         name: 'Restuarant & Café',
