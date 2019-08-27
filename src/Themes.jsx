@@ -85,9 +85,9 @@ const data = [
     },
     {
       name: 'Personal',
-      image: '/resources/creative-agency/screenshot.png',
+      image: '/resources/personal/screenshot.png',
       desc: 'Personal Website for Creative theme and Fronts site.',
-      link: `${base_url}/creative-agency`
+      link: `${base_url}/personal`
     },
     {
       name: 'Pexcon',
