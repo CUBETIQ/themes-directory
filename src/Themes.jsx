@@ -74,9 +74,39 @@ export default function Themes() {
   );
 }
 
-const base_url = 'https://cubetiq-themes.netlify.com/resources';
+const base_url = 'https://themes.cubetiqs.com/resources';
 
 const data = [
+    {
+      name: 'Creative Agency',
+      image: '/resources/creative-agency/screenshot.png',
+      desc: 'Agency Website for Creative theme and Fronts site.',
+      link: `${base_url}/creative-agency`
+    },
+    {
+      name: 'Personal',
+      image: '/resources/creative-agency/screenshot.png',
+      desc: 'Personal Website for Creative theme and Fronts site.',
+      link: `${base_url}/creative-agency`
+    },
+    {
+      name: 'Pexcon',
+      image: '/resources/pexcon/screenshot.png',
+      desc: 'Construction Website for Creative theme and Fronts site.',
+      link: `${base_url}/pexcon`
+    },
+    {
+      name: 'Rental',
+      image: '/resources/rental/screenshot.png',
+      desc: 'Retal and Real Estate Website for Creative theme and Fronts site.',
+      link: `${base_url}/rental`
+    },
+    {
+      name: 'Uptown',
+      image: '/resources/uptown/screenshot.png',
+      desc: 'Real Estate Website for Creative theme and Fronts site.',
+      link: `${base_url}/uptown`
+    },
     {
       name: 'Royada Online Shop',
       image: '/resources/royada-online-shop.png',
